@@ -3,10 +3,17 @@ This is a Demo
 
 This is a demo
 
-Steps:
+Steps to setup :
 
 1. Setup.py
 2. requirements.txt
 3. pip install -r requirements.txt
 4. git pull
-5. 
+
+
+Steps to create a new branch:
+1. Check which branches are present:
+    git branch
+
+2. Creating a new branch:
+    git checkout -b name_of_branch
