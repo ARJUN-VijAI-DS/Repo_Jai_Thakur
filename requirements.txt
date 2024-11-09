@@ -1,0 +1,6 @@
+
+## Python libraries and version
+pandas
+numpy
+Flask
+-e .
