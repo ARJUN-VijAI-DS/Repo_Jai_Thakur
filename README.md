@@ -17,3 +17,7 @@ Steps to create a new branch:
 
 2. Creating a new branch:
     git checkout -b name_of_branch
+
+3. When pushing to a new branch write:
+   git push origin name_of_Branch
+   
